@@ -1,0 +1,12 @@
+{
+  "name": "weconnect-frontend",
+  "version": "1.0.0",
+  "description": "WeConnect Frontend — HTML + CSS + TypeScript",
+  "scripts": {
+    "dev": "npx serve . -p 3000 --cors",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
